@@ -13,5 +13,4 @@ In this exercise, the following CSS will put the countries into two columns:
 Follow the steps below to complete this exercise.
 
 1. Open `columns.css` and write a media query so that the countries are in two columns when the screen is wider than `768px`.
-2. Write another media query so that the countries are in three columns when the screen is wider than `1200px`.
-3. Change the size of your browser window to see how it reacts to different widths.
+2. Write another media query so that the countries are in three columns when the screen is wider than `1200px`.3. Change the size of your browser window to see how it reacts to different widths.
